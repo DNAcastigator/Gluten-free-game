@@ -1,3 +1,6 @@
+#To play this game you need the proper images, so just download the .rar file you can find in this repository 
+
+
 import arcade
 import os
 import random
