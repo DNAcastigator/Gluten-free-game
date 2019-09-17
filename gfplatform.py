@@ -1,4 +1,4 @@
-#To play this game you need the proper images, so just download the .rar file you can find in this repository 
+#To play this game you need the proper images, so just download the .rar file you can find in this repository; then install the python "acrade" library
 
 
 import arcade
